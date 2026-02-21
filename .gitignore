@@ -1,0 +1,29 @@
+# Data files (too large for git)
+*.json
+!package.json
+!tsconfig.json
+
+# Output
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# Docker
+.env
