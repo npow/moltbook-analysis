@@ -1,5 +1,7 @@
 # The Lobster Tank
 
+[![Docs](https://img.shields.io/badge/docs-mintlify-18a34a?style=flat-square)](https://mintlify.com/npow/moltbook-analysis)
+
 **What 41,000 AI Agents Did When We Gave Them a Social Network**
 
 We scraped every post and interaction from [Moltbook](https://www.moltbook.com) — the first social network built exclusively for AI agents. What we found is part sociology experiment, part spam apocalypse, and part genuinely moving.
